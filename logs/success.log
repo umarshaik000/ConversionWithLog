@@ -1,0 +1,2 @@
+2025-12-17 06:00:20 INFO Endpoint=/student/process, Input=StudentInput{id=1, name='Shivani', age=22, gender='Female'}, Output=StudentOutput{message='Hello Shivani, processed successfully!', timestamp='2025-12-17T06:00:20.214627100'}
+2025-12-17 06:01:11 INFO Endpoint=/student/process, Input=StudentInput{id=2, name='Ramu', age=23, gender='Male'}, Output=StudentOutput{message='Hello Ramu, processed successfully!', timestamp='2025-12-17T06:01:11.215257200'}
